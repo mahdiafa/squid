@@ -1,0 +1,2 @@
+# squid
+htpasswd -c passwd
